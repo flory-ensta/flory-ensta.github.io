@@ -247,3 +247,11 @@ textarea {
         font-size: 60%;
     }
 }
+
+.badge-primary {
+    background-color: hsl(211, 100%, 33%);
+}
+
+.list-group-item {
+    color: #223464;
+}
